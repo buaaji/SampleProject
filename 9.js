@@ -7,3 +7,5 @@ alert('third alert');
 var abc = 0;
 
 abc = 1;
+
+abc = 3;
